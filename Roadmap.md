@@ -4,10 +4,14 @@ Roadmap of where we're up to and any changes to it...
 This "-" represents the original roadmap.  The # represents changes to it and comments.
 
 - Week 1 - Set up Discourse development environment
+
       # done, and created a basic discourse plugin.
+
 - Week 2 - Create basic "hello world" Discourse plugin
+
       # going through an discontructing and existing discourse adsense plugin
       # **todo: creating a very basic DFP plugin with 1 ad block in the header as a ship item.**
+
 - Week 3 - Create Ad plugin: first step, shows boxes where ads should be on Discourse
 - Week 4 - Separate boxes into an Ember component for re-use
 - Week 5 - Add support for an ad provider to the component (Google? whoever is most popular!)
