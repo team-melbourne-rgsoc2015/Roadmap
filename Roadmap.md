@@ -13,8 +13,9 @@ This "-" represents the original roadmap.  The # represents changes to it and co
       # **todo: creating a very basic DFP plugin with 1 ad block in the header as a ship item.**
 
 - Week 3 - Create Ad plugin: first step, shows boxes where ads should be on Discourse
--     # **todo: creating a very basic DFP plugin with 1 ad block in the header as a ship item hopefully due by the end of the 3rd week**
--     
+      # **todo: creating a very basic DFP plugin with 1 ad block in the header as a ship item hopefully due by the end of the 3rd week**
+
+
 - Week 4 - Separate boxes into an Ember component for re-use
 - Week 5 - Add support for an ad provider to the component (Google? whoever is most popular!)
 - Week 6 - Add site settings to configure plugin
