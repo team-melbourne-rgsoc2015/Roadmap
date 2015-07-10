@@ -10,10 +10,10 @@ This "-" represents the original roadmap.  The # represents changes to it and co
 - Week 2 - Create basic "hello world" Discourse plugin
 
       # going through an discontructing and existing discourse adsense plugin
-      # **todo: creating a very basic DFP plugin with 1 ad block in the header as a ship item.**
+      # **todo: creating a very basic DFP plugin with 1 ad block using the dummy code in the header as a ship item hopefully due by the end of the 3rd week**
 
 - Week 3 - Create Ad plugin: first step, shows boxes where ads should be on Discourse
-      # **todo: creating a very basic DFP plugin with 1 ad block in the header as a ship item hopefully due by the end of the 3rd week**
+      # **todo: creating a very basic DFP plugin with 1 ad block using the dummy code in the header as a ship item hopefully due by the end of the 3rd week**
 
 
 - Week 4 - Separate boxes into an Ember component for re-use
