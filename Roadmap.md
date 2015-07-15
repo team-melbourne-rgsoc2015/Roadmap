@@ -42,6 +42,9 @@ This "-" represents the original roadmap.  The # represents changes to it and co
       
 - Week 3 - Create Ad plugin: first step, shows boxes where ads should be on Discourse
       # **todo: creating a very basic DFP plugin with 1 ad block using the dummy code in the header as a ship item hopefully due by the end of the 3rd week**
+	- Todo: Add plugin deets and template things out?
+	- 	Packaging and installation for that 1 ad block
+	- 	Testing in a live site? 
 
 
 - Week 4 - Separate boxes into an Ember component for re-use
