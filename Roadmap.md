@@ -45,7 +45,8 @@ This "-" represents the original roadmap.  The # represents changes to it and co
 	- Todo: Add plugin deets and template things out?
 	- 	Packaging and installation for that 1 ad block
 	- 	Testing in a live site? 
-
+	- 	
+https://trello.com/b/jJRlPOCL/todo
 
 - Week 4 - Separate boxes into an Ember component for re-use
 - Week 5 - Add support for an ad provider to the component (Google? whoever is most popular!)
