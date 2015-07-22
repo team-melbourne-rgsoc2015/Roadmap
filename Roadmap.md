@@ -47,8 +47,24 @@ This "-" represents the original roadmap.  The # represents changes to it and co
 	- 	Testing in a live site? 
 	- 	for more info on day-to-day tasks https://trello.com/b/jJRlPOCL/todo
 
-- Week 4 - Separate boxes into an Ember component for re-use
-- Week 5 - Add support for an ad provider to the component (Google? whoever is most popular!)
-- Week 6 - Add site settings to configure plugin
-- Week 7 - Create tests for plugin component
-- Week 8 - Package plugin for Distribution
+- Package plugin for Distribution
+  - Let's get a git repo for the project that doesn't include Discourse as outlined here (https://meta.discourse.org/t/beginners-guide-to-creating-discourse-plugins-part-4-git-setup/31272)
+  - It should have a README with installation instructions
+  - Don't forget to include yourselves as authors!
+  
+- Other ad provider: Adsense?
+- Other ad provider: Amazon? (https://affiliate-program.amazon.com/)
+
+- Ads every Nth post
+
+- Custom ads:
+  - When they don't want to use google.
+  - Accept a list of uploaded images and links.
+  - Show a random ad from the list
+  - Click tracking
+
+- Create acceptance tests for plugin component
+
+
+
+
