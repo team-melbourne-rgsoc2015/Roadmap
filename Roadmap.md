@@ -41,8 +41,8 @@ This "-" represents the original roadmap.  The # represents changes to it and co
       ```
       
 - Week 3 - Create Ad plugin: first step, shows boxes where ads should be on Discourse
-      # **todo: creating a very basic DFP plugin with 1 ad block using the dummy code in the header as a ship item hopefully due by the end of the 3rd week**
-	- Todo: Add plugin deets and template things out?
+      # DONE **todo: creating a very basic DFP plugin with 1 ad block using the dummy code in the header as a ship item hopefully due by the end of the 3rd week**
+	- DONE Todo: Add plugin deets and template things out?
 	- 	Packaging and installation for that 1 ad block
 	- 	Testing in a live site? 
 	- 	for more info on day-to-day tasks https://trello.com/b/jJRlPOCL/todo
@@ -52,10 +52,13 @@ This "-" represents the original roadmap.  The # represents changes to it and co
   - It should have a README with installation instructions
   - Don't forget to include yourselves as authors!
   
-- Other ad provider: Adsense?
-- Other ad provider: Amazon? (https://affiliate-program.amazon.com/)
+- Week 4 - DONE. Create Adsense plugin
+
+- Week 5 (see Trello)
 
 - Ads every Nth post
+- 
+- Other ad provider: Amazon? (https://affiliate-program.amazon.com/)
 
 - Custom ads:
   - When they don't want to use google.
