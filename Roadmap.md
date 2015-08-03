@@ -57,7 +57,7 @@ This "-" represents the original roadmap.  The # represents changes to it and co
 - Week 5 (see Trello)
 
 - Ads every Nth post
-- 
+ 
 - Other ad provider: Amazon? (https://affiliate-program.amazon.com/)
 
 - Custom ads:
